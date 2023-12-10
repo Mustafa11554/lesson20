@@ -1,0 +1,17 @@
+{
+    "name": "dell/app",
+    "autoload": {
+        "psr-4": {
+            "Dell\\App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mustafa",
+            "email": "mustafa01999@icloud.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
